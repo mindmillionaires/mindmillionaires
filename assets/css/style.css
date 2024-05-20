@@ -841,15 +841,15 @@ label{
 }
 
 .about .video-box {
-  background: url("../img/3112677.jpg") center center no-repeat;
-  background-size: 500px;
+  background: url("../img/Sin título-1.png") center center no-repeat;
+  background-size: 350px;
   min-height: 500px;
 }
 
 @media (max-width: 992px) {
 
 .about .video-box {
-  background: url("../img/3112677.jpg") center center no-repeat;
+  background: url("../img/Sin título-1.png") center center no-repeat;
   background-size: 230px;
   min-height: 300px;
 }
